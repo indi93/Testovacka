@@ -1,1 +1,2 @@
 Toto je moj test prace s git-om.
+A pokracujem si v praci.
