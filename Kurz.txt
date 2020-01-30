@@ -1,0 +1,1 @@
+Toto je moj test prace s git-om.
